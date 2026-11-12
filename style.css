@@ -13,7 +13,7 @@ body{
 div{
     background-color: var(--card);
     height: 380px;
-    width: 60%;
+    width: 90%;
     margin: auto; 
     margin-top: 2%;
     display: block;
