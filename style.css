@@ -14,8 +14,8 @@ div{
     background-color: var(--card);
     height: 380px;
     width: 60%;
-    margin: auto;
-    padding: auto;
+    margin: auto; 
+    margin-top: 2%;
     display: block;
     border-radius: 13px;
     border: 2px solid rgba(135, 206, 250, 0.355);
@@ -42,8 +42,8 @@ div > input{
     display: block;
     margin-left: 13px;
     margin-bottom: 10px;
-    height: 40px;
-    width: 400px;
+    height: 10%;
+    width: 96%;
     border-radius: 10px;
     font-size: 17px;
     color: lightgray;
